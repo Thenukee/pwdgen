@@ -9,6 +9,16 @@ Simple desktop password generator with a clean UI.
 - Live password strength meter
 - One-click copy to clipboard
 
+## Screenshots
+
+### Home
+
+![Password Generator Home](screenshots/app-home.svg)
+
+### Generated Password Example
+
+![Password Generator Generated Password](screenshots/app-generated.svg)
+
 ## Run with `py`
 
 ```bat
@@ -37,3 +47,4 @@ py -m PyInstaller --onefile --windowed --name PasswordGenerator password_generat
 
 - Every time you click **Generate**, a new strong password is created.
 - Uses Python `secrets` module for cryptographically secure randomness.
+- Keep the executable in: `dist\\PasswordGenerator.exe`

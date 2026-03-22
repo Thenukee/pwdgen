@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Password Generator Home Screen Mock">
+  <rect width="1200" height="720" fill="#f5f6fa"/>
+  <rect x="220" y="80" width="760" height="560" rx="20" fill="#ffffff" stroke="#d9deea"/>
+  <text x="260" y="140" font-size="36" font-family="Segoe UI, sans-serif" fill="#1f2937">Strong Password Generator</text>
+  <text x="260" y="210" font-size="22" font-family="Segoe UI, sans-serif" fill="#374151">Password Length: 16</text>
+  <rect x="260" y="230" width="460" height="18" rx="9" fill="#e5e7eb"/>
+  <rect x="260" y="230" width="220" height="18" rx="9" fill="#2563eb"/>
+  <rect x="260" y="280" width="28" height="28" rx="6" fill="#2563eb"/>
+  <text x="300" y="301" font-size="22" font-family="Segoe UI, sans-serif" fill="#374151">Include symbols</text>
+  <rect x="770" y="270" width="170" height="48" rx="10" fill="#111827"/>
+  <text x="815" y="302" font-size="22" font-family="Segoe UI, sans-serif" fill="#ffffff">Generate</text>
+  <text x="260" y="360" font-size="22" font-family="Segoe UI, sans-serif" fill="#374151">Generated Password:</text>
+  <rect x="260" y="380" width="680" height="54" rx="10" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="280" y="414" font-size="21" font-family="Consolas, monospace" fill="#6b7280">click Generate to create password</text>
+  <text x="260" y="475" font-size="22" font-family="Segoe UI, sans-serif" fill="#374151">Strength: No password (0%)</text>
+  <rect x="260" y="495" width="680" height="16" rx="8" fill="#e5e7eb"/>
+  <rect x="770" y="540" width="170" height="48" rx="10" fill="#1f2937"/>
+  <text x="804" y="572" font-size="22" font-family="Segoe UI, sans-serif" fill="#ffffff">Copy</text>
+</svg>
